@@ -1,4 +1,4 @@
-# Student-Management-System
+# Student Management System
 import tkinter as tk
 from tkinter import messagebox, ttk
 import openpyxl
